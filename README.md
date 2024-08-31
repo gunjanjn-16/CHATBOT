@@ -40,7 +40,7 @@ nltk.download('wordnet')
 Create a text file named chatbot.txt in the project directory. This file should contain the data that the chatbot will use for responses.
 
 Run the chatbot script using Python:
-python chatbot.py
+chatbot.py
 
 Once the chatbot is running, you can interact with it through the command line. Type your messages, and the chatbot will respond accordingly. To exit the chat, type "bye" or "goodbye".
 Code Explanation
