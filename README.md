@@ -29,7 +29,7 @@ pip install nltk numpy
 2. Clone this repository to your local machine:
 git clone https://github.com/gunjanjn-16/chatbot.git
 
-3.Navigate to the project directory:
+3. Navigate to the project directory:
 cd chatbot
 
 Download the necessary NLTK resources:
